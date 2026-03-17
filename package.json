@@ -1,5 +1,5 @@
 {
-  "name": "simple-interest",
+  "name": "devops68-simple-interest",
   "version": "1.0.0",
   "description": "API to calculate simple interest",
   "main": "index.js",
