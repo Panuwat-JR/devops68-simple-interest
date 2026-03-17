@@ -1,0 +1,8 @@
+{
+  "name": "simple-interest",
+  "version": "1.0.0",
+  "description": "API to calculate simple interest",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "license": "MIT"
+}
